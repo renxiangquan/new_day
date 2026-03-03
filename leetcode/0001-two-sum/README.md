@@ -1,3 +1,0 @@
-## Two Sum
-
-Link: ...
